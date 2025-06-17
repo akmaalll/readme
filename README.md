@@ -19,5 +19,14 @@
 - [React Performance Optimization](https://example.com)
 <!-- BLOG-POST-LIST:END -->
 
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=akmaalll&locale=id&title_color=7D1C4A&bg_color=DEG,9B59B6,FFD0C7&text_color=E3D2C3&theme=dark" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=akmaalll&locale=id&title_color=8B008B&bg_color=DEG,FFD1FF,FAD0C4&theme=default" 
+    alt="Statistik GitHub pipiw20" />
+</picture>
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
