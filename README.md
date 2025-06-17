@@ -11,7 +11,7 @@
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akmaalll&show_icons=true&theme=radical)](https://github.com/akmaalll)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=akmaalll)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akmaall)](https://git.io/streak-stats)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
